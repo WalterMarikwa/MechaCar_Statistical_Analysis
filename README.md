@@ -2,6 +2,7 @@
 
 ## Overview
 
+The project's aim is to compare vehicle performance across various manufacturer lots and examine metrics that may have an impact on the manufacturing of a new car prototype. Vehicle length, weight, spoiler angle, ground clearance, AWD capability, MPG, and PSI are some of these parameters.
 
 ### Resources
 R, R Studio
